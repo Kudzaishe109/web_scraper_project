@@ -1,0 +1,4 @@
+2025-04-14 09:20:21,612 - INFO - Scheduling scraping job to run every 1 hours
+2025-04-14 10:05:17,340 - INFO - Scraping started
+2025-04-14 10:05:19,889 - INFO - Data saved to scraped_data.csv with 10 entries
+2025-04-14 10:05:19,890 - INFO - Scraping completed
